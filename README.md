@@ -1,0 +1,2 @@
+# shift-manager-firebase
+シフト管理システムをFirebasewoWebで公開できるようにしました

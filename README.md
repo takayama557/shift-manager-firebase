@@ -4,6 +4,9 @@
 
 スマートフォンやタブレットからも利用できるよう、カレンダー形式の画面を採用しました。Firebaseによるログイン認証とクラウドデータ保存にも対応しています。
 
+ローカルデモ版URL
+　　　https://takayama557.github.io/shift-manager/
+
 <img width="983" height="945" alt="スクリーンショット 2026-10-29 163512" src="https://github.com/user-attachments/assets/78c18584-8113-4ec6-a724-da7da4762a64" />
 <img width="952" height="885" alt="スクリーンショット 2026-10-29 163522" src="https://github.com/user-attachments/assets/5f16a049-ad6b-43e4-9cd0-a366317590f7" />
 

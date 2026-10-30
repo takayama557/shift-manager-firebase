@@ -13,13 +13,13 @@
 
 ## 主な機能
 
-- スタッフ情報の登録・編集
-- カレンダーからの勤務希望の提出・確認
-- シフトの自動生成と手動調整
-- 休業日・シフト生成条件の設定
-- JSON形式でのデータバックアップ・復元
-- Firebase Authenticationによるログイン
-- Cloud Firestoreによるデータ共有
+* ログイン認証： Firebase Authenticationを利用したユーザー認証
+* シフト自動生成： 設定した条件に基づくシフトの自動生成
+* スタッフ管理： スタッフ情報の管理
+* 権限管理： 管理者と一般利用者で利用可能な機能を制御
+* データ共有： Cloud Firestoreを利用したシフト情報の共有
+* バックアップ・復元： JSON形式によるデータのエクスポート・インポート
+
 
 ## 使用技術
 
@@ -47,6 +47,17 @@
 
 ※ 現在は一般利用者同士でデータを共有する設計です。個人ごとの編集権限は今後の改善課題としています。
 
+## 使用技術
+
+* HTML
+* CSS
+* JavaScript
+* Node.JS
+* eclipse
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Hosting
+
 ## システム構成
 
 ```text
@@ -72,5 +83,10 @@ Firebase Authentication  Cloud Firestore
 
 ## 今後の改善予定
 
+
 - 利用者ごとの個別アカウント・編集権限の実装
 - Java / Spring Bootを利用したバックエンド開発への発展
+
+
+
+

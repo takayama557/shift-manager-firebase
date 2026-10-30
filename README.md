@@ -47,16 +47,6 @@
 
 ※ 現在は一般利用者同士でデータを共有する設計です。個人ごとの編集権限は今後の改善課題としています。
 
-## 使用技術
-
-* HTML
-* CSS
-* JavaScript
-* Node.JS
-* eclipse
-* Firebase Authentication
-* Cloud Firestore
-* Firebase Hosting
 
 ## システム構成
 

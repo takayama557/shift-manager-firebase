@@ -13,12 +13,10 @@ Firebase Hostingでポートフォリオ用で公開しています。（管理�
 ローカルデモ版URL
 　　　https://takayama557.github.io/shift-manager/
 
-<img width="716" height="716" alt="スクリーンショット 2026-11-02 173825" src="https://github.com/user-attachments/assets/583793a1-2aa0-4448-8331-71b204a05ee3" />
-<img width="711" height="813" alt="スクリーンショット 2026-11-02 173818" src="https://github.com/user-attachments/assets/22fa8255-5f77-45ca-8e8b-9cf95cd2f48a" />
-<img width="1041" height="591" alt="スクリーンショット 2026-11-02 173800" src="https://github.com/user-attachments/assets/e130fd93-22a9-496c-bcb5-d0d44262731b" />
 <img width="1056" height="931" alt="スクリーンショット 2026-11-02 173750" src="https://github.com/user-attachments/assets/1d0e0ee0-03fd-4cf6-8afc-b5cf6cdb3f43" />
-
-
+<img width="1041" height="591" alt="スクリーンショット 2026-11-02 173800" src="https://github.com/user-attachments/assets/e130fd93-22a9-496c-bcb5-d0d44262731b" />
+<img width="711" height="813" alt="スクリーンショット 2026-11-02 173818" src="https://github.com/user-attachments/assets/22fa8255-5f77-45ca-8e8b-9cf95cd2f48a" />
+<img width="716" height="716" alt="スクリーンショット 2026-11-02 173825" src="https://github.com/user-attachments/assets/583793a1-2aa0-4448-8331-71b204a05ee3" />
 
 ## 主な機能
 
